@@ -1,0 +1,9 @@
+c:\users\shikri01\documents\visual studio 2013\Projects\SimpleAngularFromPlunkr\SimpleAngularFromPlunkr\bin\SimpleAngularFromPlunkr.dll.config
+c:\users\shikri01\documents\visual studio 2013\Projects\SimpleAngularFromPlunkr\SimpleAngularFromPlunkr\bin\SimpleAngularFromPlunkr.dll
+c:\users\shikri01\documents\visual studio 2013\Projects\SimpleAngularFromPlunkr\SimpleAngularFromPlunkr\bin\SimpleAngularFromPlunkr.pdb
+c:\users\shikri01\documents\visual studio 2013\Projects\SimpleAngularFromPlunkr\SimpleAngularFromPlunkr\bin\SimpleAngularFromPlunkr.xml
+c:\users\shikri01\documents\visual studio 2013\Projects\SimpleAngularFromPlunkr\SimpleAngularFromPlunkr\obj\Debug\SimpleAngularFromPlunkr.Resources.resources
+c:\users\shikri01\documents\visual studio 2013\Projects\SimpleAngularFromPlunkr\SimpleAngularFromPlunkr\obj\Debug\SimpleAngularFromPlunkr.vbproj.GenerateResource.Cache
+c:\users\shikri01\documents\visual studio 2013\Projects\SimpleAngularFromPlunkr\SimpleAngularFromPlunkr\obj\Debug\SimpleAngularFromPlunkr.dll
+c:\users\shikri01\documents\visual studio 2013\Projects\SimpleAngularFromPlunkr\SimpleAngularFromPlunkr\obj\Debug\SimpleAngularFromPlunkr.xml
+c:\users\shikri01\documents\visual studio 2013\Projects\SimpleAngularFromPlunkr\SimpleAngularFromPlunkr\obj\Debug\SimpleAngularFromPlunkr.pdb

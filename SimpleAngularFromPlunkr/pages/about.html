@@ -1,0 +1,14 @@
+﻿<div class="jumbotron text-center">
+    <h1>About Page</h1>
+    <p>{{ message }}</p>
+
+    <select ng-model="selection" ng-options="item for item in items"></select>
+    <tt>selection={{selection}}</tt>
+    <hr />
+    <div class="animate-switch-container"
+         ng-switch on="selection">
+        <div class="animate-switch" ng-switch-when="settings">Settings Div</div>
+        <div class="animate-switch" ng-switch-when="home">Home Span</div>
+        <div class="animate-switch" ng-switch-default>default</div>
+    </div>
+</div>
